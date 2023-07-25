@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "moment-timezone": "^0.5.43",
+    "soap": "^1.0.0",
+    "xml2js": "^0.6.1"
+  }
+}

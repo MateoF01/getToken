@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<loginTicketRequest>
+  <header>
+    <uniqueId>190928</uniqueId>
+    <generationTime>2023-07-25T10:56:34</generationTime>
+    <expirationTime>2023-07-26T10:56:34</expirationTime>
+  </header>
+  <service>djprocessorcontribuyente_cf</service>
+</loginTicketRequest>
