@@ -5,9 +5,9 @@ const getToken = require("./lib/getToken.js")
 
 const  miLoginTicketRequest = 'files/MiLoginTicketRequest.xml';
 
-//ticketLoginUpdater.updateGenerationAndExpirationTime(miLoginTicketRequest);
+ticketLoginUpdater.updateGenerationAndExpirationTime(miLoginTicketRequest);
 
-//createLoginTicket();
+createLoginTicket();
 
 getToken();
 
