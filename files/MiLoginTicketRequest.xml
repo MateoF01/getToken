@@ -2,8 +2,8 @@
 <loginTicketRequest>
   <header>
     <uniqueId>190928</uniqueId>
-    <generationTime>2023-07-31T11:34:52</generationTime>
-    <expirationTime>2023-08-01T10:34:52</expirationTime>
+    <generationTime>2023-08-10T14:37:27</generationTime>
+    <expirationTime>2023-08-11T13:37:27</expirationTime>
   </header>
   <service>djprocessorcontribuyente_cf</service>
 </loginTicketRequest>
